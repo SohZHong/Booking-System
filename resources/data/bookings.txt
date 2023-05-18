@@ -1,0 +1,4 @@
+Soh Zhe Hong, 050607141263, 0122380949, blaze@gmail.com, 9, 10/05/2023, 10/06/2023, false
+Tan Mei Ling, 870715091099, 0129987654, tanmeiling@gmail.com, 5, 09/06/2023, 30/06/2023, true
+Lim Wei Jie, 950612141212, 0171234567, limweijie@gmail.com, 18, 11/05/2023, 20/05/2023, false
+Admin, 030521070061, 01150700666, sohzhe@gmail.com, 3, 20/05/2023, 21/05/2023, false

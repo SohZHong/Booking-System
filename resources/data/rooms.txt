@@ -1,0 +1,20 @@
+1, Double, Queen, true, false
+2, Triple, King, true, false
+3, Single, Full, true, true
+4, Single, Full XL, false, false
+5, Triple, King, true, true
+6, Quad, Queen, true, false
+7, Double, King, true, true
+8, Double, Twin XL, false, false
+9, Single, Twin, true, false
+10, Double, Full XL, true, true
+11, Twin, Twin XL, false, false
+12, Quad, Queen, true, false
+13, Double, Queen, true, true
+14, Triple, King, true, false
+15, Double, Queen, true, true
+16, Twin, Twin XL, false, false
+17, Single, Twin XL, false, true
+18, Double, Full, true, false
+19, Double, Queen, true, true
+20, Executive Suite, King, true, false
