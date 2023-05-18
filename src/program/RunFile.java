@@ -1,4 +1,4 @@
-package assignment;
+package program;
 
 import java.io.IOException;
 import java.text.ParseException;
