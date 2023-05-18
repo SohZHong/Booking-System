@@ -1,4 +1,4 @@
-package assignment;
+package program;
 
 import java.awt.Dimension;
 import static assignment.Program.*;
